@@ -24,6 +24,8 @@ El usario y pass de la base de datos la encontrarás dentro del archivo settings
 
 GET http://127.0.0.1:8000/
 
+GET http://127.0.0.1:8000/api/welcome/
+
 POST http://127.0.0.1:8000/registration/
 
 POST http://127.0.0.1:8000/login/
